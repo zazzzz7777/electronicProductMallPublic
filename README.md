@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1BbmHYJEJ5/](https://www.bilibili.com/video/BV1BbmHYJEJ5/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
 
 ## 基于Java+Springboot+vue的电子产品商城管理系统(源代码+数据库)191
 
